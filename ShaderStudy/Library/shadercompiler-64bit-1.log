@@ -1,0 +1,333 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-5232
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=5691 outsize=930 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2697 outsize=1948 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2697 outsize=2224 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2738 outsize=2403 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2738 outsize=2493 kw=POINT SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=845 outsize=1681 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7138 outsize=3809 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7138 outsize=1753 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3950 outsize=2899 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3950 outsize=2387 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3034 outsize=2533 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3034 outsize=697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6299 outsize=4223 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6299 outsize=1802 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6231 outsize=3947 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6231 outsize=2086 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3299 outsize=2631 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3299 outsize=1753 kw= ok=1
+Cmd: preprocess
+  insize=999 outsize=438 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=863 outsize=1201 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=863 outsize=518 kw= ok=1
+Cmd: preprocess
+  insize=938 outsize=1669 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7283 outsize=4093 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7283 outsize=1469 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4095 outsize=3183 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4095 outsize=2103 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3179 outsize=2533 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3179 outsize=697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6444 outsize=4508 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6444 outsize=1485 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6376 outsize=4231 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6376 outsize=1769 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3444 outsize=2915 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3444 outsize=1469 kw= ok=1
+Cmd: preprocess
+  insize=6191 outsize=999 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2913 outsize=1948 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2913 outsize=2582 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2954 outsize=2403 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2954 outsize=2850 kw=POINT SHADOWS_OFF ok=1
+Cmd: preprocess
+  insize=822 outsize=1617 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7219 outsize=4150 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7219 outsize=1388 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4031 outsize=3240 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4031 outsize=2021 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3115 outsize=2533 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3115 outsize=697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6380 outsize=4564 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6380 outsize=1404 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6312 outsize=4288 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6312 outsize=1688 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3380 outsize=2972 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3380 outsize=1388 kw= ok=1
+Cmd: preprocess
+  insize=6569 outsize=1057 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3073 outsize=1948 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3073 outsize=2939 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3114 outsize=2403 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3114 outsize=3208 kw=POINT SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2738 outsize=1948 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2738 outsize=2184 kw=DIRECTIONAL SHADOWS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3950 outsize=2899 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3950 outsize=1607 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=993 outsize=1275 ok=1
+Cmd: preprocess
+  insize=995 outsize=1277 ok=1
+Cmd: preprocess
+  insize=1294 outsize=1622 ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=7480 outsize=3435 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=1 insize=7480 outsize=770 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with POINT
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with POINT
+  api=4 type=0 insize=4235 outsize=2533 kw=POINT ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with POINT
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with POINT
+  api=4 type=1 insize=4235 outsize=575 kw=POINT ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program
+  api=4 type=0 insize=3561 outsize=2533 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program
+  api=4 type=1 insize=3561 outsize=697 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  api=4 type=0 insize=6681 outsize=4004 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  api=4 type=1 insize=6681 outsize=770 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  api=4 type=0 insize=6590 outsize=3435 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF
+  api=4 type=1 insize=6590 outsize=1314 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program
+  api=4 type=0 insize=3658 outsize=2411 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program
+  api=4 type=1 insize=3658 outsize=1745 kw= ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with DIRECTIONAL
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with DIRECTIONAL
+  api=4 type=0 insize=4235 outsize=2533 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with DIRECTIONAL
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with DIRECTIONAL
+  api=4 type=1 insize=4235 outsize=575 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Vertex program with DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=0 insize=7480 outsize=3825 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  error: 1 plat 4 at (40): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  error: 1 plat 4 at (41): comma expression used where a vector constructor may have been intended\nCompiling Fragment program with DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF
+  api=4 type=1 insize=7480 outsize=819 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: preprocess
+  insize=1302 outsize=1624 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8214 outsize=3996 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8214 outsize=1826 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4243 outsize=2533 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4243 outsize=575 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3569 outsize=2533 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3569 outsize=697 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7314 outsize=4564 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7314 outsize=1826 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=7223 outsize=3996 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=7223 outsize=2411 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4291 outsize=2972 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4291 outsize=2923 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=8214 outsize=4386 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=8214 outsize=1875 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4243 outsize=2533 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4243 outsize=575 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=995 outsize=1277 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6810 outsize=3663 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6810 outsize=1314 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3647 outsize=2753 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3647 outsize=1168 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  error: 2 plat 16 at (36): Syntax error
+  insize=920 outsize=303 ok=0
+Cmd: preprocess
+  error: 2 plat 1 at (36): undefined variable "_Color"
+  insize=922 outsize=1483 ok=0
+Cmd: preprocess
+  insize=940 outsize=952 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6896 outsize=3419 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6896 outsize=1258 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3867 outsize=2753 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3867 outsize=1891 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3280 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3280 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6810 outsize=4053 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6810 outsize=1631 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6896 outsize=3809 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6896 outsize=1574 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3867 outsize=2753 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3867 outsize=1111 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=980 outsize=992 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6896 outsize=3419 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6896 outsize=1258 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3867 outsize=2753 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3867 outsize=1891 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3280 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3280 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6896 outsize=3809 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6896 outsize=1574 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3867 outsize=2753 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3867 outsize=1111 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=991 outsize=992 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6907 outsize=3419 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6907 outsize=1314 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3878 outsize=2753 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3878 outsize=1948 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3291 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3291 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3878 outsize=2753 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3878 outsize=1168 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=991 outsize=991 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6907 outsize=3419 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6907 outsize=1331 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3878 outsize=2753 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3878 outsize=1964 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3291 outsize=2103 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3291 outsize=1266 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3878 outsize=2753 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3878 outsize=1184 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=6907 outsize=3809 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=6907 outsize=1648 kw=DIRECTIONAL SHADOWS_SCREEN LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF ok=1
